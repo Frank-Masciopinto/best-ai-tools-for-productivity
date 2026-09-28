@@ -10,6 +10,7 @@ All tools belong to their respective owners and are linked to their official sit
 
 - [AI Assistants](#ai-assistants)
 - [Writing & Content](#writing--content)
+- | SummarizAI | On-page YouTube summary, chapters, chat, and Study flashcards | [summarizai.ink](https://summarizai.ink) |
 - [Research & Knowledge](#research--knowledge)
 - [Meetings & Notes](#meetings--notes)
 - [Design & Presentations](#design--presentations)
