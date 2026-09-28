@@ -10,7 +10,6 @@ All tools belong to their respective owners and are linked to their official sit
 
 - [AI Assistants](#ai-assistants)
 - [Writing & Content](#writing--content)
-- | SummarizAI | On-page YouTube summary, chapters, chat, and Study flashcards | [summarizai.ink](https://summarizai.ink) |
 - [Research & Knowledge](#research--knowledge)
 - [Meetings & Notes](#meetings--notes)
 - [Design & Presentations](#design--presentations)
@@ -41,6 +40,7 @@ All tools belong to their respective owners and are linked to their official sit
 | Perplexity | Answers with cited sources | [perplexity.ai](https://www.perplexity.ai) |
 | NotebookLM | Q&A and summaries from your own documents | [notebooklm.google](https://notebooklm.google) |
 | Elicit | Academic paper research | [elicit.com](https://elicit.com) |
+| SummarizAI | On-page YouTube summary, chapters, chat, and Study flashcards | [summarizai.ink](https://summarizai.ink) |
 
 ## Meetings & Notes
 
